@@ -1,0 +1,116 @@
+# Build
+build/
+cmake-build-*/
+*.o
+*.a
+*.so
+*.dylib
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Data / large files
+*.h5
+*.hdf5
+*.vtu
+*.vts
+*.vtk
+*.geojson
+*.tif
+*.tiff
+
+# Logs and temporary outputs
+*.log
+log*.txt
+ModEMlog.txt
+Otree-pro.txt
+
+# Checkpoints and output directories
+checkpoints/
+output*/
+diag_output*/
+inversion_output/
+mesh_test_output/
+real_fwd_output/
+ytl_inversion_output/
+
+# Field data (private)
+data/
+YTL_NewMT3D/
+YTL_NewMT3D_v2/
+YTL_NewMT3D_v3/
+ytl_*/
+Results/
+mesh_test_terrain/
+third_party/
+
+# GUI (separate package)
+gui/
+newmt_gui.py
+
+# Claude internal
+.claude/
+CLAUDE.md
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Documentation and scripts (not for public release)
+doc/
+scripts/
+
+# Internal development docs
+doc/ADJOINT_SOLVER_FINDINGS.md
+doc/CHANGELOG_ALL_MODIFICATIONS.md
+doc/CLI_OPTIONS.md
+doc/COCR_CH.md
+doc/FV_FORWARD_DEBUGGING.md
+doc/HYPRE_DOWNGRADE_ISSUES.md
+doc/MANUSCRIPT_REVIEW.md
+doc/MODEM_COMPARISON.md
+doc/MT_memory.txt
+doc/NewMT3D_Memory_Solution.md
+doc/OCTREE-DESIGN.md
+doc/PHYSICS_INTEGRITY_FIXES.md
+doc/PHYSICS_INTEGRITY_REVIEW.md
+doc/PRESB_AND_MPI_DESIGN.md
+doc/STATE.md
+doc/ST_RES.md
+doc/ch1-res.txt
+doc/ch1.txt
+doc/qmr.txt
+doc/*.pdf
+doc/*.png
+doc/figures/
+
+# Root-level loose files from debugging
+commemi3d1_*
+dual.md
+paper.txt
+octree_test.*
+
+# Scripts not for public release
+scripts/compare_adjoint_prec.sh
+scripts/run_benchmarks.sh
+scripts/run_ngsolve*.sh
+scripts/test_resume.sh
+scripts/ngsolve_mt3d_prototype.py
+scripts/run_real_forward.sh
+
+# EDI files in example directories (generated, not tracked)
+examples/commemi_3d1a/edi/
+examples/commemi_3d1a/output/
+examples/commemi_3d1a/true_model.vtu
+examples/commemi_3d2/edi/
+examples/commemi_3d2/output/
+examples/commemi_3d2/true_model.vtu
