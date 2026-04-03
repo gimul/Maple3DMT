@@ -1,5 +1,5 @@
 // Copyright (c) 2024-2026 Kangwon National University, Prof. Seokhoon Oh.
-// All rights reserved.
+// Licensed under GPL-3.0. See LICENSE for details.
 
 /// @file inversion_3d.cpp
 /// @brief 3D MT inversion using CG-based Gauss-Newton.

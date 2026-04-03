@@ -212,9 +212,5 @@ If you use Maple3DMT in your research, please cite:
 
 Copyright (c) 2024-2026 Kangwon National University, Prof. Seokhoon Oh.
 
-This software is released under a custom academic license:
-- Redistribution and use for **academic research** are permitted.
-- **Modifications** may not be distributed without the author's written consent.
-- **Commercial use** requires a separate agreement.
-
+This software is released under the **GNU General Public License v3.0 (GPL-3.0)**.
 See [LICENSE](LICENSE) for full terms.

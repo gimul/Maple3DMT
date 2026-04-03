@@ -1,5 +1,5 @@
 // Copyright (c) 2024-2026 Kangwon National University, Prof. Seokhoon Oh.
-// All rights reserved.
+// Licensed under GPL-3.0. See LICENSE for details.
 
 /// @file inversion_test.cpp
 /// @brief Validation driver: 3D inversion of synthetic data with a conductive block.

@@ -1,5 +1,5 @@
 // Copyright (c) 2024-2026 Kangwon National University, Prof. Seokhoon Oh.
-// All rights reserved.
+// Licensed under GPL-3.0. See LICENSE for details.
 
 /// @file halfspace_1d_test.cpp
 /// @brief §14.4 Validation: 1D Halfspace Analytical Test.

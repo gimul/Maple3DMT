@@ -1,5 +1,5 @@
 // Copyright (c) 2024-2026 Kangwon National University, Prof. Seokhoon Oh.
-// All rights reserved.
+// Licensed under GPL-3.0. See LICENSE for details.
 
 #include "maple3dmt/forward/forward_solver_fv.h"
 #include "maple3dmt/forward/cocg.h"

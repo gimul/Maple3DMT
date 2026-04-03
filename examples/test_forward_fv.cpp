@@ -1,5 +1,5 @@
 // Copyright (c) 2024-2026 Kangwon National University, Prof. Seokhoon Oh.
-// All rights reserved.
+// Licensed under GPL-3.0. See LICENSE for details.
 
 /// @file test_forward_fv.cpp
 /// @brief 1D halfspace forward test: compare FV solution with analytical impedance.

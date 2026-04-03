@@ -1,5 +1,5 @@
 // Copyright (c) 2024-2026 Kangwon National University, Prof. Seokhoon Oh.
-// All rights reserved.
+// Licensed under GPL-3.0. See LICENSE for details.
 
 /// @file implicit_jtj_fv.cpp
 /// @brief Matrix-free (JᵀW²J + λWᵀW)·v for octree FV inversion.

@@ -1,5 +1,5 @@
 // Copyright (c) 2024-2026 Kangwon National University, Prof. Seokhoon Oh.
-// All rights reserved.
+// Licensed under GPL-3.0. See LICENSE for details.
 
 /// @file commemi_3d2_inversion.cpp
 /// @brief COMMEMI 3D-2 synthetic inversion benchmark for publication.
